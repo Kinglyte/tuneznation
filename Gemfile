@@ -12,7 +12,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 gem 'devise', '~> 4.2.0'
 gem 'bcrypt', '~> 3.1.7'
-
+gem 'paperclip', '~> 5.1'
 
 group :development, :test do
      gem 'sqlite3'
